@@ -8636,6 +8636,14 @@ AudioListener:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1305202320}
   m_Enabled: 1
+--- !u!45 &1305202333
+Skybox:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1305202321}
+  m_Enabled: 0
+  m_CustomSkybox: {fileID: 2100000, guid: e222162ddb8d34547a133b673221b195, type: 2}
 --- !u!1001 &1360071557
 Prefab:
   m_ObjectHideFlags: 0
