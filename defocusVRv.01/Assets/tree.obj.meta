@@ -1,0 +1,1217 @@
+fileFormatVersion: 2
+guid: 5d2d4cf1e7ce6fc4f92593705c3ebfa6
+timeCreated: 1507495738
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: mesh1002202065
+    100002: mesh1011778148
+    100004: mesh1037944368
+    100006: mesh1038136783
+    100008: mesh1052350717
+    100010: mesh1094001029
+    100012: mesh1095476913
+    100014: mesh1142731845
+    100016: mesh1195359884
+    100018: mesh1254715507
+    100020: mesh1264504892
+    100022: mesh1272227295
+    100024: mesh1286647869
+    100026: mesh1296614660
+    100028: mesh130281568
+    100030: mesh1362730060
+    100032: mesh1366916968
+    100034: mesh138973391
+    100036: mesh1394327457
+    100038: mesh1481037817
+    100040: mesh1483903867
+    100042: mesh1507263546
+    100044: mesh1528429364
+    100046: mesh1535567432
+    100048: mesh1574930961
+    100050: mesh158958516
+    100052: mesh159255255
+    100054: mesh1600171963
+    100056: mesh1602991420
+    100058: mesh1604231825
+    100060: mesh1607157839
+    100062: mesh161738297
+    100064: mesh164360434
+    100066: mesh1651998249
+    100068: mesh1652212795
+    100070: mesh1673824521
+    100072: mesh1684867220
+    100074: mesh1719275206
+    100076: mesh1743981685
+    100078: mesh1770818526
+    100080: mesh177472677
+    100082: mesh1786941539
+    100084: mesh1788228768
+    100086: mesh1789301205
+    100088: mesh179656595
+    100090: mesh1800937138
+    100092: mesh1809853779
+    100094: mesh1833136887
+    100096: mesh185708101
+    100098: mesh1920114622
+    100100: mesh1930353295
+    100102: mesh1934845209
+    100104: mesh1942361838
+    100106: mesh1988588626
+    100108: mesh2009058503
+    100110: mesh2014160209
+    100112: mesh201797890
+    100114: mesh2028638784
+    100116: mesh2057702475
+    100118: mesh206222322
+    100120: mesh2065841434
+    100122: mesh2066004303
+    100124: mesh2066051058
+    100126: mesh2082549345
+    100128: mesh2086125457
+    100130: mesh2086826344
+    100132: mesh2103844643
+    100134: mesh2107388761
+    100136: mesh2111486346
+    100138: mesh2136625585
+    100140: mesh2147431937
+    100142: mesh219064700
+    100144: mesh232745821
+    100146: mesh240693871
+    100148: mesh24820850
+    100150: mesh296123982
+    100152: mesh299213974
+    100154: mesh299380437
+    100156: mesh320057097
+    100158: mesh321965664
+    100160: mesh347342840
+    100162: mesh366032761
+    100164: mesh390394085
+    100166: mesh394437314
+    100168: mesh411169433
+    100170: mesh414055233
+    100172: mesh418334907
+    100174: mesh428317311
+    100176: mesh5296311
+    100178: mesh549178937
+    100180: mesh586641414
+    100182: mesh607477368
+    100184: mesh611313445
+    100186: mesh615509802
+    100188: mesh616843209
+    100190: mesh659238257
+    100192: mesh660745693
+    100194: mesh701235961
+    100196: mesh710989632
+    100198: mesh736672770
+    100200: mesh740976363
+    100202: mesh776106706
+    100204: mesh797198690
+    100206: mesh832405774
+    100208: mesh840007883
+    100210: mesh850296831
+    100212: mesh853323688
+    100214: mesh899598033
+    100216: mesh950121070
+    100218: mesh957869788
+    100220: mesh959495208
+    100222: mesh967326893
+    100224: mesh96803995
+    100226: //RootNode
+    400000: mesh1002202065
+    400002: mesh1011778148
+    400004: mesh1037944368
+    400006: mesh1038136783
+    400008: mesh1052350717
+    400010: mesh1094001029
+    400012: mesh1095476913
+    400014: mesh1142731845
+    400016: mesh1195359884
+    400018: mesh1254715507
+    400020: mesh1264504892
+    400022: mesh1272227295
+    400024: mesh1286647869
+    400026: mesh1296614660
+    400028: mesh130281568
+    400030: mesh1362730060
+    400032: mesh1366916968
+    400034: mesh138973391
+    400036: mesh1394327457
+    400038: mesh1481037817
+    400040: mesh1483903867
+    400042: mesh1507263546
+    400044: mesh1528429364
+    400046: mesh1535567432
+    400048: mesh1574930961
+    400050: mesh158958516
+    400052: mesh159255255
+    400054: mesh1600171963
+    400056: mesh1602991420
+    400058: mesh1604231825
+    400060: mesh1607157839
+    400062: mesh161738297
+    400064: mesh164360434
+    400066: mesh1651998249
+    400068: mesh1652212795
+    400070: mesh1673824521
+    400072: mesh1684867220
+    400074: mesh1719275206
+    400076: mesh1743981685
+    400078: mesh1770818526
+    400080: mesh177472677
+    400082: mesh1786941539
+    400084: mesh1788228768
+    400086: mesh1789301205
+    400088: mesh179656595
+    400090: mesh1800937138
+    400092: mesh1809853779
+    400094: mesh1833136887
+    400096: mesh185708101
+    400098: mesh1920114622
+    400100: mesh1930353295
+    400102: mesh1934845209
+    400104: mesh1942361838
+    400106: mesh1988588626
+    400108: mesh2009058503
+    400110: mesh2014160209
+    400112: mesh201797890
+    400114: mesh2028638784
+    400116: mesh2057702475
+    400118: mesh206222322
+    400120: mesh2065841434
+    400122: mesh2066004303
+    400124: mesh2066051058
+    400126: mesh2082549345
+    400128: mesh2086125457
+    400130: mesh2086826344
+    400132: mesh2103844643
+    400134: mesh2107388761
+    400136: mesh2111486346
+    400138: mesh2136625585
+    400140: mesh2147431937
+    400142: mesh219064700
+    400144: mesh232745821
+    400146: mesh240693871
+    400148: mesh24820850
+    400150: mesh296123982
+    400152: mesh299213974
+    400154: mesh299380437
+    400156: mesh320057097
+    400158: mesh321965664
+    400160: mesh347342840
+    400162: mesh366032761
+    400164: mesh390394085
+    400166: mesh394437314
+    400168: mesh411169433
+    400170: mesh414055233
+    400172: mesh418334907
+    400174: mesh428317311
+    400176: mesh5296311
+    400178: mesh549178937
+    400180: mesh586641414
+    400182: mesh607477368
+    400184: mesh611313445
+    400186: mesh615509802
+    400188: mesh616843209
+    400190: mesh659238257
+    400192: mesh660745693
+    400194: mesh701235961
+    400196: mesh710989632
+    400198: mesh736672770
+    400200: mesh740976363
+    400202: mesh776106706
+    400204: mesh797198690
+    400206: mesh832405774
+    400208: mesh840007883
+    400210: mesh850296831
+    400212: mesh853323688
+    400214: mesh899598033
+    400216: mesh950121070
+    400218: mesh957869788
+    400220: mesh959495208
+    400222: mesh967326893
+    400224: mesh96803995
+    400226: //RootNode
+    2300000: mesh1002202065
+    2300002: mesh1011778148
+    2300004: mesh1037944368
+    2300006: mesh1038136783
+    2300008: mesh1052350717
+    2300010: mesh1094001029
+    2300012: mesh1095476913
+    2300014: mesh1142731845
+    2300016: mesh1195359884
+    2300018: mesh1254715507
+    2300020: mesh1264504892
+    2300022: mesh1272227295
+    2300024: mesh1286647869
+    2300026: mesh1296614660
+    2300028: mesh130281568
+    2300030: mesh1362730060
+    2300032: mesh1366916968
+    2300034: mesh138973391
+    2300036: mesh1394327457
+    2300038: mesh1481037817
+    2300040: mesh1483903867
+    2300042: mesh1507263546
+    2300044: mesh1528429364
+    2300046: mesh1535567432
+    2300048: mesh1574930961
+    2300050: mesh158958516
+    2300052: mesh159255255
+    2300054: mesh1600171963
+    2300056: mesh1602991420
+    2300058: mesh1604231825
+    2300060: mesh1607157839
+    2300062: mesh161738297
+    2300064: mesh164360434
+    2300066: mesh1651998249
+    2300068: mesh1652212795
+    2300070: mesh1673824521
+    2300072: mesh1684867220
+    2300074: mesh1719275206
+    2300076: mesh1743981685
+    2300078: mesh1770818526
+    2300080: mesh177472677
+    2300082: mesh1786941539
+    2300084: mesh1788228768
+    2300086: mesh1789301205
+    2300088: mesh179656595
+    2300090: mesh1800937138
+    2300092: mesh1809853779
+    2300094: mesh1833136887
+    2300096: mesh185708101
+    2300098: mesh1920114622
+    2300100: mesh1930353295
+    2300102: mesh1934845209
+    2300104: mesh1942361838
+    2300106: mesh1988588626
+    2300108: mesh2009058503
+    2300110: mesh2014160209
+    2300112: mesh201797890
+    2300114: mesh2028638784
+    2300116: mesh2057702475
+    2300118: mesh206222322
+    2300120: mesh2065841434
+    2300122: mesh2066004303
+    2300124: mesh2066051058
+    2300126: mesh2082549345
+    2300128: mesh2086125457
+    2300130: mesh2086826344
+    2300132: mesh2103844643
+    2300134: mesh2107388761
+    2300136: mesh2111486346
+    2300138: mesh2136625585
+    2300140: mesh2147431937
+    2300142: mesh219064700
+    2300144: mesh232745821
+    2300146: mesh240693871
+    2300148: mesh24820850
+    2300150: mesh296123982
+    2300152: mesh299213974
+    2300154: mesh299380437
+    2300156: mesh320057097
+    2300158: mesh321965664
+    2300160: mesh347342840
+    2300162: mesh366032761
+    2300164: mesh390394085
+    2300166: mesh394437314
+    2300168: mesh411169433
+    2300170: mesh414055233
+    2300172: mesh418334907
+    2300174: mesh428317311
+    2300176: mesh5296311
+    2300178: mesh549178937
+    2300180: mesh586641414
+    2300182: mesh607477368
+    2300184: mesh611313445
+    2300186: mesh615509802
+    2300188: mesh616843209
+    2300190: mesh659238257
+    2300192: mesh660745693
+    2300194: mesh701235961
+    2300196: mesh710989632
+    2300198: mesh736672770
+    2300200: mesh740976363
+    2300202: mesh776106706
+    2300204: mesh797198690
+    2300206: mesh832405774
+    2300208: mesh840007883
+    2300210: mesh850296831
+    2300212: mesh853323688
+    2300214: mesh899598033
+    2300216: mesh950121070
+    2300218: mesh957869788
+    2300220: mesh959495208
+    2300222: mesh967326893
+    2300224: mesh96803995
+    3300000: mesh1002202065
+    3300002: mesh1011778148
+    3300004: mesh1037944368
+    3300006: mesh1038136783
+    3300008: mesh1052350717
+    3300010: mesh1094001029
+    3300012: mesh1095476913
+    3300014: mesh1142731845
+    3300016: mesh1195359884
+    3300018: mesh1254715507
+    3300020: mesh1264504892
+    3300022: mesh1272227295
+    3300024: mesh1286647869
+    3300026: mesh1296614660
+    3300028: mesh130281568
+    3300030: mesh1362730060
+    3300032: mesh1366916968
+    3300034: mesh138973391
+    3300036: mesh1394327457
+    3300038: mesh1481037817
+    3300040: mesh1483903867
+    3300042: mesh1507263546
+    3300044: mesh1528429364
+    3300046: mesh1535567432
+    3300048: mesh1574930961
+    3300050: mesh158958516
+    3300052: mesh159255255
+    3300054: mesh1600171963
+    3300056: mesh1602991420
+    3300058: mesh1604231825
+    3300060: mesh1607157839
+    3300062: mesh161738297
+    3300064: mesh164360434
+    3300066: mesh1651998249
+    3300068: mesh1652212795
+    3300070: mesh1673824521
+    3300072: mesh1684867220
+    3300074: mesh1719275206
+    3300076: mesh1743981685
+    3300078: mesh1770818526
+    3300080: mesh177472677
+    3300082: mesh1786941539
+    3300084: mesh1788228768
+    3300086: mesh1789301205
+    3300088: mesh179656595
+    3300090: mesh1800937138
+    3300092: mesh1809853779
+    3300094: mesh1833136887
+    3300096: mesh185708101
+    3300098: mesh1920114622
+    3300100: mesh1930353295
+    3300102: mesh1934845209
+    3300104: mesh1942361838
+    3300106: mesh1988588626
+    3300108: mesh2009058503
+    3300110: mesh2014160209
+    3300112: mesh201797890
+    3300114: mesh2028638784
+    3300116: mesh2057702475
+    3300118: mesh206222322
+    3300120: mesh2065841434
+    3300122: mesh2066004303
+    3300124: mesh2066051058
+    3300126: mesh2082549345
+    3300128: mesh2086125457
+    3300130: mesh2086826344
+    3300132: mesh2103844643
+    3300134: mesh2107388761
+    3300136: mesh2111486346
+    3300138: mesh2136625585
+    3300140: mesh2147431937
+    3300142: mesh219064700
+    3300144: mesh232745821
+    3300146: mesh240693871
+    3300148: mesh24820850
+    3300150: mesh296123982
+    3300152: mesh299213974
+    3300154: mesh299380437
+    3300156: mesh320057097
+    3300158: mesh321965664
+    3300160: mesh347342840
+    3300162: mesh366032761
+    3300164: mesh390394085
+    3300166: mesh394437314
+    3300168: mesh411169433
+    3300170: mesh414055233
+    3300172: mesh418334907
+    3300174: mesh428317311
+    3300176: mesh5296311
+    3300178: mesh549178937
+    3300180: mesh586641414
+    3300182: mesh607477368
+    3300184: mesh611313445
+    3300186: mesh615509802
+    3300188: mesh616843209
+    3300190: mesh659238257
+    3300192: mesh660745693
+    3300194: mesh701235961
+    3300196: mesh710989632
+    3300198: mesh736672770
+    3300200: mesh740976363
+    3300202: mesh776106706
+    3300204: mesh797198690
+    3300206: mesh832405774
+    3300208: mesh840007883
+    3300210: mesh850296831
+    3300212: mesh853323688
+    3300214: mesh899598033
+    3300216: mesh950121070
+    3300218: mesh957869788
+    3300220: mesh959495208
+    3300222: mesh967326893
+    3300224: mesh96803995
+    4300000: mesh1002202065
+    4300002: mesh1011778148
+    4300004: mesh1037944368
+    4300006: mesh1038136783
+    4300008: mesh1052350717
+    4300010: mesh1094001029
+    4300012: mesh1095476913
+    4300014: mesh1142731845
+    4300016: mesh1195359884
+    4300018: mesh1254715507
+    4300020: mesh1264504892
+    4300022: mesh1272227295
+    4300024: mesh1286647869
+    4300026: mesh1296614660
+    4300028: mesh130281568
+    4300030: mesh1362730060
+    4300032: mesh1366916968
+    4300034: mesh138973391
+    4300036: mesh1394327457
+    4300038: mesh1481037817
+    4300040: mesh1483903867
+    4300042: mesh1507263546
+    4300044: mesh1528429364
+    4300046: mesh1535567432
+    4300048: mesh1574930961
+    4300050: mesh158958516
+    4300052: mesh159255255
+    4300054: mesh1600171963
+    4300056: mesh1602991420
+    4300058: mesh1604231825
+    4300060: mesh1607157839
+    4300062: mesh161738297
+    4300064: mesh164360434
+    4300066: mesh1651998249
+    4300068: mesh1652212795
+    4300070: mesh1673824521
+    4300072: mesh1684867220
+    4300074: mesh1719275206
+    4300076: mesh1743981685
+    4300078: mesh1770818526
+    4300080: mesh177472677
+    4300082: mesh1786941539
+    4300084: mesh1788228768
+    4300086: mesh1789301205
+    4300088: mesh179656595
+    4300090: mesh1800937138
+    4300092: mesh1809853779
+    4300094: mesh1833136887
+    4300096: mesh185708101
+    4300098: mesh1920114622
+    4300100: mesh1930353295
+    4300102: mesh1934845209
+    4300104: mesh1942361838
+    4300106: mesh1988588626
+    4300108: mesh2009058503
+    4300110: mesh2014160209
+    4300112: mesh201797890
+    4300114: mesh2028638784
+    4300116: mesh2057702475
+    4300118: mesh206222322
+    4300120: mesh2065841434
+    4300122: mesh2066004303
+    4300124: mesh2066051058
+    4300126: mesh2082549345
+    4300128: mesh2086125457
+    4300130: mesh2086826344
+    4300132: mesh2103844643
+    4300134: mesh2107388761
+    4300136: mesh2111486346
+    4300138: mesh2136625585
+    4300140: mesh2147431937
+    4300142: mesh219064700
+    4300144: mesh232745821
+    4300146: mesh240693871
+    4300148: mesh24820850
+    4300150: mesh296123982
+    4300152: mesh299213974
+    4300154: mesh299380437
+    4300156: mesh320057097
+    4300158: mesh321965664
+    4300160: mesh347342840
+    4300162: mesh366032761
+    4300164: mesh390394085
+    4300166: mesh394437314
+    4300168: mesh411169433
+    4300170: mesh414055233
+    4300172: mesh418334907
+    4300174: mesh428317311
+    4300176: mesh5296311
+    4300178: mesh549178937
+    4300180: mesh586641414
+    4300182: mesh607477368
+    4300184: mesh611313445
+    4300186: mesh615509802
+    4300188: mesh616843209
+    4300190: mesh659238257
+    4300192: mesh660745693
+    4300194: mesh701235961
+    4300196: mesh710989632
+    4300198: mesh736672770
+    4300200: mesh740976363
+    4300202: mesh776106706
+    4300204: mesh797198690
+    4300206: mesh832405774
+    4300208: mesh840007883
+    4300210: mesh850296831
+    4300212: mesh853323688
+    4300214: mesh899598033
+    4300216: mesh950121070
+    4300218: mesh957869788
+    4300220: mesh959495208
+    4300222: mesh967326893
+    4300224: mesh96803995
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mesh1002202065Mat
+    second: {fileID: 2100000, guid: f0ab0390cfba024448d2dd2714e64ff1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mesh1011778148Mat
+    second: {fileID: 2100000, guid: 5b53034431a4d754b95653adf2a27651, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mesh1037944368Mat
+    second: {fileID: 2100000, guid: 772ae151c94771d429a36257c8aef593, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mesh1038136783Mat
+    second: {fileID: 2100000, guid: efea563c13dccdb42a010095f450026e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mesh1052350717Mat
+    second: {fileID: 2100000, guid: da36870a5678b3d4293d8e77a4c1009e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mesh1094001029Mat
+    second: {fileID: 2100000, guid: 5ec04399f1ede1446bf5dae5caf370ac, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mesh1095476913Mat
+    second: {fileID: 2100000, guid: 22aee329d490e51428d30d07ece3c088, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mesh1142731845Mat
+    second: {fileID: 2100000, guid: 66b2f208a0aadb94c8fda7d7e65b9435, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mesh1195359884Mat
+    second: {fileID: 2100000, guid: 0b74990601bd48c438ea37dd131ff54f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mesh1254715507Mat
+    second: {fileID: 2100000, guid: 3519711d0f9df38409eac3650d0469bf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mesh1264504892Mat
+    second: {fileID: 2100000, guid: 51922544c795bb948a92f320ba01fb23, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mesh1272227295Mat
+    second: {fileID: 2100000, guid: d2da9d8e9c2232944bfe391edb22ac0d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mesh1286647869Mat
+    second: {fileID: 2100000, guid: e082b9c71e59e4248b9f28ecf907c6be, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mesh1296614660Mat
+    second: {fileID: 2100000, guid: 0ff48dfd6e32abd41849d484aced0007, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mesh130281568Mat
+    second: {fileID: 2100000, guid: babe7ec0d4be8394c99a0f1c765d98d8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mesh1362730060Mat
+    second: {fileID: 2100000, guid: e36e35d5ec9888449a07195146729570, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mesh1366916968Mat
+    second: {fileID: 2100000, guid: 16ea0f0fa7981ba468ed9760574eb984, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mesh138973391Mat
+    second: {fileID: 2100000, guid: 55d6d728924a55a44afee85fcc239ad5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mesh1394327457Mat
+    second: {fileID: 2100000, guid: e2b9b4f1480d373448856e8ba94436c2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mesh1481037817Mat
+    second: {fileID: 2100000, guid: 9cbd0441c84fe18418a7265531ea2822, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mesh1483903867Mat
+    second: {fileID: 2100000, guid: 374f1c4e0206cbf4ba6ecc8e171d771e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mesh1507263546Mat
+    second: {fileID: 2100000, guid: 698b9eb5f4d45b84eaf295db8110cd97, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mesh1528429364Mat
+    second: {fileID: 2100000, guid: 486f424d5721eaa47ac283b6d65237c9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mesh1535567432Mat
+    second: {fileID: 2100000, guid: 9c89b9b91ca8a424a8dc16d64b80c6bc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mesh1574930961Mat
+    second: {fileID: 2100000, guid: 912cee77cf2be2440ba74d366e311267, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mesh158958516Mat
+    second: {fileID: 2100000, guid: ff9425f77f4e30a4d8730a528fcf61d8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mesh159255255Mat
+    second: {fileID: 2100000, guid: 5cf3863ecc5982d47b24f016be5251a8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mesh1600171963Mat
+    second: {fileID: 2100000, guid: 87f40305122287a41ac03280e89c2420, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mesh1602991420Mat
+    second: {fileID: 2100000, guid: 273473fd212a6ce498b56120c889306a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mesh1604231825Mat
+    second: {fileID: 2100000, guid: 62b092ee23826b04dad129433e760940, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mesh1607157839Mat
+    second: {fileID: 2100000, guid: af57c3a95173c0d47989367d9eabb861, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mesh161738297Mat
+    second: {fileID: 2100000, guid: 6fcca2e950fc5e74194b5cb64e180dca, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mesh164360434Mat
+    second: {fileID: 2100000, guid: a0462b197e8a56e4d8d81bb3c28903c5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mesh1651998249Mat
+    second: {fileID: 2100000, guid: e3fc687f5411c604baeb742f4783707b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mesh1652212795Mat
+    second: {fileID: 2100000, guid: a3a391d244147b04794860417fb69358, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mesh1673824521Mat
+    second: {fileID: 2100000, guid: a1a602b62f75b0041b82e5c12637a033, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mesh1684867220Mat
+    second: {fileID: 2100000, guid: b77dfc7581156924689c5253d70ec37e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mesh1719275206Mat
+    second: {fileID: 2100000, guid: c0ce8b7cab6465c49a8fc4a988b3c75c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mesh1743981685Mat
+    second: {fileID: 2100000, guid: a9cdd7af0f05731409808266b1af4877, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mesh1770818526Mat
+    second: {fileID: 2100000, guid: 51dbe84fdc05776418b8e2350e601b92, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mesh177472677Mat
+    second: {fileID: 2100000, guid: 311d8447fbf95624f87cf7b408b8415c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mesh1786941539Mat
+    second: {fileID: 2100000, guid: 18b2d454ad12dbd488d6fc28d8ed4e53, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mesh1788228768Mat
+    second: {fileID: 2100000, guid: 99d55ceb7c32042489d6f3e5371b1c9a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mesh1789301205Mat
+    second: {fileID: 2100000, guid: 93642952f7808e348bfb7ed574a2b54f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mesh179656595Mat
+    second: {fileID: 2100000, guid: c0191dd338f368541ba3d28ce01b5b46, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mesh1800937138Mat
+    second: {fileID: 2100000, guid: 5ff4723e13707f343ac5a7b2c199a4bd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mesh1809853779Mat
+    second: {fileID: 2100000, guid: 993bc1393caa8bf4e848e793a0c5047e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mesh1833136887Mat
+    second: {fileID: 2100000, guid: e27230e529f861d4c96069ed12f54d12, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mesh185708101Mat
+    second: {fileID: 2100000, guid: b396dbbc7e920ce4a85ac555f9def5b0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mesh1920114622Mat
+    second: {fileID: 2100000, guid: c9336dcddd751a1499b8b7c085bb90ae, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mesh1930353295Mat
+    second: {fileID: 2100000, guid: ac6f74a39dcfab748923bb4d4e6bff29, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mesh1934845209Mat
+    second: {fileID: 2100000, guid: 836f34bd83188994aae4815e9aa81ba3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mesh1942361838Mat
+    second: {fileID: 2100000, guid: c6afda17d1fc2eb4f8e46a9287635e8f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mesh1988588626Mat
+    second: {fileID: 2100000, guid: 06b5450bfd57e8b448181f7232184418, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mesh2009058503Mat
+    second: {fileID: 2100000, guid: ecc040ed413c2e546bd8269a7655615f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mesh2014160209Mat
+    second: {fileID: 2100000, guid: 6ceb6774fb6abe342a128a11fa6e63e8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mesh201797890Mat
+    second: {fileID: 2100000, guid: 2b40413831ec3c744a5c49de71b6329e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mesh2028638784Mat
+    second: {fileID: 2100000, guid: c384e0a2617c9b64e8c72679658395ce, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mesh2057702475Mat
+    second: {fileID: 2100000, guid: 42df7aca37b4d14459b712e4ce65194e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mesh206222322Mat
+    second: {fileID: 2100000, guid: 91fc726e56e20234298996cfc04dc8dd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mesh2065841434Mat
+    second: {fileID: 2100000, guid: 0f59cb95e28fc8a49a0546baa5626bb6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mesh2066004303Mat
+    second: {fileID: 2100000, guid: 0a369af657266f541aaedc2b700c14d6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mesh2066051058Mat
+    second: {fileID: 2100000, guid: ea04b3f794100994089314347bb7eed5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mesh2082549345Mat
+    second: {fileID: 2100000, guid: 7d6ce3db8382f7f499ef0402825bec81, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mesh2086125457Mat
+    second: {fileID: 2100000, guid: 45e769bfda88e144f8601320cf9e34ef, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mesh2086826344Mat
+    second: {fileID: 2100000, guid: 6c541b73856a0744ebd4c91c2116d809, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mesh2103844643Mat
+    second: {fileID: 2100000, guid: c908cea9002867a4195acea71bfcf033, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mesh2107388761Mat
+    second: {fileID: 2100000, guid: 0ec26511e14bc3840864ad71c45d6d5a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mesh2111486346Mat
+    second: {fileID: 2100000, guid: 02c53fd5e542fdb45898a63e089d9098, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mesh2136625585Mat
+    second: {fileID: 2100000, guid: c1f19ff4833cca040ac1ec0e22aeb81f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mesh2147431937Mat
+    second: {fileID: 2100000, guid: fefea5d79bc07fb43b6df3778e5909fa, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mesh219064700Mat
+    second: {fileID: 2100000, guid: 53fcd933a35c61143a90e25e5d018bce, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mesh232745821Mat
+    second: {fileID: 2100000, guid: 2a73ca95a7559ac40821dceff8dbfeb1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mesh240693871Mat
+    second: {fileID: 2100000, guid: ac9d5ef5f61cb0643bf26709f732f26e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mesh24820850Mat
+    second: {fileID: 2100000, guid: f77cdaec7c4961544891446b946cecd0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mesh296123982Mat
+    second: {fileID: 2100000, guid: 12ac9c252b0347643a8f6e82c02a064f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mesh299213974Mat
+    second: {fileID: 2100000, guid: 830dab7d0bf92c3459dc172772b84ca8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mesh299380437Mat
+    second: {fileID: 2100000, guid: df49ac50d6c13804480fbb449dbf5ef0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mesh320057097Mat
+    second: {fileID: 2100000, guid: 12acbba54ac7bb142b8323d8f1cbc5c4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mesh321965664Mat
+    second: {fileID: 2100000, guid: 1298a0f02a997e24b983297273680472, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mesh347342840Mat
+    second: {fileID: 2100000, guid: 07c03ce9bb9622b44a784e667e35da92, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mesh366032761Mat
+    second: {fileID: 2100000, guid: 29530ac0dd5bc4e43820cce99bd17cac, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mesh390394085Mat
+    second: {fileID: 2100000, guid: 5eb55e79f6c24c541b99eb5175799fde, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mesh394437314Mat
+    second: {fileID: 2100000, guid: fc792307afd16594da29645dd2fb5314, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mesh411169433Mat
+    second: {fileID: 2100000, guid: 5beb88e0f47818942be6460eb79ba08f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mesh414055233Mat
+    second: {fileID: 2100000, guid: 716be8ded4ae5a148b40a0a04e9ac142, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mesh418334907Mat
+    second: {fileID: 2100000, guid: 84fe8767f8428ef4ba92955979c5512e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mesh428317311Mat
+    second: {fileID: 2100000, guid: 26cba7eb08f125943a08cf88677585f1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mesh5296311Mat
+    second: {fileID: 2100000, guid: 8139c937af97c6f46bec417d8e9893fe, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mesh549178937Mat
+    second: {fileID: 2100000, guid: 617c441257cfc394883c15435220b546, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mesh586641414Mat
+    second: {fileID: 2100000, guid: 060d10d9fb6ad0343bf004cddc700f31, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mesh607477368Mat
+    second: {fileID: 2100000, guid: 7526a7ab598e36a44a62a12330bfeaf2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mesh611313445Mat
+    second: {fileID: 2100000, guid: 1a21ea7dce76ead438c025160f135246, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mesh615509802Mat
+    second: {fileID: 2100000, guid: f4aacac2f45edf54384edbdc5533633f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mesh616843209Mat
+    second: {fileID: 2100000, guid: e431d8fb266b9814686701aa5edbc78a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mesh659238257Mat
+    second: {fileID: 2100000, guid: 47372e41a30bde444a4a4e1c10faaed8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mesh660745693Mat
+    second: {fileID: 2100000, guid: 79f02cbf538b832438f723d83696934e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mesh701235961Mat
+    second: {fileID: 2100000, guid: e40241e2998a7a545b1281be73e6b71d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mesh710989632Mat
+    second: {fileID: 2100000, guid: bd4610f99d27d82469c30879b64b5742, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mesh736672770Mat
+    second: {fileID: 2100000, guid: 47b0455ee2eecc847adf655b9ca5514e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mesh740976363Mat
+    second: {fileID: 2100000, guid: b52b670c511fddd46a0ec371f2dbc553, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mesh776106706Mat
+    second: {fileID: 2100000, guid: caa9080dae36e814a951045c5dd7a4ee, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mesh797198690Mat
+    second: {fileID: 2100000, guid: 7a6f37623f263384dbe0ad3a698f6a10, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mesh832405774Mat
+    second: {fileID: 2100000, guid: 50b46e6c2a7fb954ba392c0ae29615ae, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mesh840007883Mat
+    second: {fileID: 2100000, guid: a7ae14be458b1c84b8dfd8f73186c5b9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mesh850296831Mat
+    second: {fileID: 2100000, guid: 834a6cdb100b45a408e71a41f53f9234, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mesh853323688Mat
+    second: {fileID: 2100000, guid: 7bef928034ac26940a92245a8cd17516, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mesh899598033Mat
+    second: {fileID: 2100000, guid: 7ea5ee8cdd38dcc4fbe503361edacbae, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mesh950121070Mat
+    second: {fileID: 2100000, guid: 53076daf2d528714dbf8cc13e5899b66, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mesh957869788Mat
+    second: {fileID: 2100000, guid: ae097d191f57770409d7f61d41327a8b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mesh959495208Mat
+    second: {fileID: 2100000, guid: f0cd8d687a2e34c4bbbb9ba7b2f4f0c4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mesh967326893Mat
+    second: {fileID: 2100000, guid: 3691ca08c463e454da7d76f6bd9e4cf8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mesh96803995Mat
+    second: {fileID: 2100000, guid: c1f3c9db6807c6347989231be0863560, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
